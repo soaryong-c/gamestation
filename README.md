@@ -10,6 +10,13 @@
 
 ## API
 
+### Data
+```js
+const account = window.data.account;
+const score = window.data.score;
+const items = window.data.items;
+```
+
 ### Register score
 ```js
 gameCenterSetScore()
