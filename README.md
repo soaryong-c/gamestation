@@ -3,7 +3,7 @@
 
 ## Install
 
-```
+```js
 <script src="gamecenter.js" />
 ```
 
