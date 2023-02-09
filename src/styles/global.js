@@ -74,7 +74,7 @@ export const WalletDiv = styled.div`
 padding: 0.5rem;
 text-overflow: ellipsis;
 right: 40px;
-width:30vh;
+width:35vh;
 overflow:hidden;
 border-radius:20px;
 border:1px solid;
@@ -87,4 +87,9 @@ right: 40px;
 overflow:hidden;
 border-radius:20px;
 border:1px solid;
+`;
+
+export const ProfileButton = styled.span`
+text-decoration: underline;
+margin-left:20px;
 `;
